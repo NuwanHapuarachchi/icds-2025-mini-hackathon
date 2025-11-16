@@ -1,0 +1,7 @@
+Dimension,Score,Status
+Missing Values,99.85238095238095,Excellent
+Duplicates,100.0,Excellent
+Outliers,99.33333333333333,Good
+Anomalies,99.97142857142858,Good
+Consistency,57.142857142857146,Fair
+OVERALL,93.38952380952381,Good

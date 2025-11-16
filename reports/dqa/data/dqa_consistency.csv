@@ -1,0 +1,6 @@
+Feature,Unique_Count,Min_Value,Max_Value,Expected_Count
+Age,6,-0.95197,2.59171,6
+Gender,2,-0.48246,0.48246,2
+Education,9,-2.43591,1.98437,9
+Country,7,-0.57009,0.96082,7
+Ethnicity,7,-1.10702,1.90725,7
