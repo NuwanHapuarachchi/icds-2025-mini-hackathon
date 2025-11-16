@@ -1,0 +1,10 @@
+Category,Count
+Original Features,13
+Domain-Specific (Psychological),10
+Interaction Terms,11
+Polynomial Features,10
+Ratio Features,6
+Binned Features,4
+Transformed Features,9
+One-Hot Encoded,13
+TOTAL ENGINEERED FEATURES,72
