@@ -1,0 +1,11 @@
+,Feature,Missing_Count,Missing_Percentage,Data_Type
+Education,Education,20,1.3333333333333335,float64
+Age,Age,2,0.13333333333333333,float64
+Country,Country,2,0.13333333333333333,float64
+Gender,Gender,1,0.06666666666666667,float64
+Nscore,Nscore,1,0.06666666666666667,float64
+Escore,Escore,1,0.06666666666666667,float64
+Oscore,Oscore,1,0.06666666666666667,float64
+Ascore,Ascore,1,0.06666666666666667,float64
+Cscore,Cscore,1,0.06666666666666667,float64
+Impulsive,Impulsive,1,0.06666666666666667,float64
